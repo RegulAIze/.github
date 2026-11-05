@@ -8,6 +8,6 @@
 
 ## Website and Social Media
 
--   [Website](https://www.regulaize-horizon.eu/about/)
+-   [Website](https://www.regulaize-horizon.eu/)
 -   [LinkedIn](https://www.linkedin.com/company/regulaize-eu/)
 
