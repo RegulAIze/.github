@@ -1,6 +1,5 @@
-# RegulAIze project
 
-![logo](../Logo.png)
+![logo](../Logo-v2.png)
 
 ## Project Information
 
